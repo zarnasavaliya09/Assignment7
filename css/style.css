@@ -1,13 +1,41 @@
-#characters th a::after {
-  content: "";
-  display: inline-block;
-  margin-left: 5px;
-}
-
-#characters th a.ascending::after {
-  content: "\25B2";
-}
-
-#characters th a.descending::after {
-  content: "\25BC";
-}
+.highlight {
+    background-color: darkgreen;
+    color: white;
+  }
+  
+  .atoM {
+    display: show;
+  }
+  
+  .nToZ {
+    display: show;
+  }
+  th {
+    background-color: #d7d7d7;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  th {
+    border-radius: 3px;
+    color: #333;
+    padding: 7px 10px 5px 10px;
+    min-width: 9em;
+    text-align: left;
+  }
+  td {
+    box-sizing: border-box;
+    border: 1px solid gray;
+  }
+  #characters th a::after {
+    content: "";
+    display: inline-block;
+    margin-left: 5px;
+  }
+  
+  #characters th a.ascending::after {
+    content: "\25B2";
+  }
+  
+  #characters th a.descending::after {
+    content: "\25BC";
+  }
