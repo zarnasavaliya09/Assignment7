@@ -1,0 +1,13 @@
+#characters th a::after {
+  content: "";
+  display: inline-block;
+  margin-left: 5px;
+}
+
+#characters th a.ascending::after {
+  content: "\25B2";
+}
+
+#characters th a.descending::after {
+  content: "\25BC";
+}

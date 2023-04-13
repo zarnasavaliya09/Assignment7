@@ -1,0 +1,65 @@
+[
+  {
+    "firstname": "Govind Patel",
+    "lastname": "Patel",
+    "age": 18,
+    "gender": "Male",
+    "occupation": "Student",
+    "interests": "Cricket",
+    "DOB": "1985-04-01"
+  },
+  {
+    "firstname": "Ishaan ",
+    "lastname": "Bhatt",
+    "age": 19,
+    "gender": "Male",
+    "occupation": "Student",
+    "interests": "Cricket",
+    "DOB": "1980-08-21"
+  },
+  {
+    "firstname": "Omi ",
+    "lastname": "Roy",
+    "age": 19,
+    "gender": "Male",
+    "occupation": "Student",
+    "interests": "Politics",
+    "DOB": "1975-12-15"
+  },
+  {
+    "firstname": "Ali ",
+    "lastname": "Khan",
+    "age": 20,
+    "gender": "Male",
+    "occupation": "Cricketer",
+    "interests": "Politics",
+    "DOB": "1989-08-22"
+  },
+  {
+    "firstname": "Geeta ",
+    "lastname": "Patel",
+    "age": 20,
+    "gender": "Female",
+    "occupation": "Teacher",
+    "interests": "Reading",
+    "DOB": "1995-10-10"
+  },
+  {
+    "firstname": "Bittumama",
+    "lastname": "Patel",
+    "age": 35,
+    "gender": "Male",
+    "occupation": "Businessmen",
+    "interests": "Writting",
+    "DOB": "1985-04-01"
+  },
+  {
+    "firstname": "Vidya",
+    "lastname": "Shah",
+    "age": 22,
+    "gender": "Female",
+    "occupation": "Singer",
+    "interests": "Poet",
+    "DOB": "1999-06-20"
+  }
+]
